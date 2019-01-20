@@ -10,3 +10,4 @@ A FullStack SPA.
 - Data filtering
 - Loading pictures
 - Work with asynchronous events
+-test
