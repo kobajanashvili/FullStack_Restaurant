@@ -1,6 +1,10 @@
 # FullStack_Restaurant
 ## You can see this project on [HEROKU](https://guarded-peak-74344.herokuapp.com).
 
+
+- username: demo@mail.com
+- password: 123456
+
 - username: test@gmail.com
 - password: 123456
 
